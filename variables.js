@@ -7,13 +7,13 @@ const variables = {
     night: "Good Night",
   },
   quotes: [
-    { quote: "Semangat yah hari ini, semoga kita di mampukan atas apa yg hari ini masih sebatas keinginan.", author: "standinhsd" },
-    { quote: "You are stronger than you think", author: "JepriNikol" },
-    { quote: "Jalani dengan tenang, dan nikmati dengan senang", author: "BrianDok" },
-    { quote: "Rumah tanpa lampu aja gelap, apalagi kuburan tanpa sholat", author: "AnggaYunan" },
-    { quote: "Keajaiban dimulai dari keyakinan pada diri sendiri", author: "Bribri" },
+    { quote: "Semangat yah hari ini, semoga kita di mampukan atas apa yg hari ini masih sebatas keinginan.", author: "RAI" },
+    { quote: "You are stronger than you think", author: "REYY" },
+    { quote: "Jalani dengan tenang, dan nikmati dengan senang", author: "KEVIN" },
+    { quote: "Rumah tanpa lampu aja gelap, apalagi kuburan tanpa sholat", author: "REYY" },
+    { quote: "Keajaiban dimulai dari keyakinan pada diri sendiri", author: "KEVIN" },
   ],
-  nicknames: ["Melly", "Melly", "Melly", "Melly", "Melly", "Melly"],
+  nicknames: ["Dylla", "Dylla", "Dylla", "Dylla", "Dylla", "Dylla"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
